@@ -10,7 +10,7 @@ I am a self taught web developer, who has made two full stack applications, whic
 
 
 - 🔭 I’m currently working on Scheduling Software
-- 🌱 I’m currently learning Gooogle Cloud Services
+- 🌱 I’m currently learning Google Cloud Services
 - 👯 I’m looking to collaborate on open source projects and open GitHub issues
 
 [![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthernSantan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
