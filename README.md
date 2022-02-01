@@ -2,14 +2,17 @@
 
 I am currently a grade 12 student looking for a coding internship, coop, or related part time work. 
 
-I am a self taught web developer, who has made two full stack applications, which are both available to view on my GitHub. I have also gone above and beyond in my computer science courses at school by integrating GitHub and other modern services with the Ontario high school curriculum. 
+I am a self taught web developer, who has made two full stack applications, which are both available to view on my GitHub.
 
-My first big coding project was writing a script to complete a repetitive online form using Python. 
-I followed this up with a website to show off this program and since then I have been working on a wide range of projects to develop my coding knowledge. 
-Over the summer my primary focus was on the development of an all-in-one scheduling application using Node JS, hosted on AWS. 
-I am also an active participant on GitHub and Stack Overflow, answering questions and offering suggestions to other coders.
+- [linkedin](https://www.linkedin.com/in/colin-mccormack-1a4a54229/)
+- [stack overflow](https://stackoverflow.com/users/17237035/colin-mccormack)
+- [google develloper](https://developers.google.com/profile/u/colin_mccormack)
+
 
 - 🔭 I’m currently working on Scheduling Software
 - 🌱 I’m currently learning Gooogle Cloud Services
 - 👯 I’m looking to collaborate on open source projects and open GitHub issues
+
+[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthernSantan)](https://github.com/anuraghazra/github-readme-stats)
+
 
