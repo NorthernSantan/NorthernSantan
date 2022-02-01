@@ -11,5 +11,5 @@ I am also an active participant on GitHub and Stack Overflow, answering question
 
 - 🔭 I’m currently working on Scheduling Software
 - 🌱 I’m currently learning Gooogle Cloud Services
-- 👯 I’m looking to collaborate on open source projects for beginners.
+- 👯 I’m looking to collaborate on open source projects and open GitHub issues
 
