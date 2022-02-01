@@ -4,9 +4,9 @@ I am currently a grade 12 student looking for a coding internship, coop, or rela
 
 I am a self taught web developer, who has made two full stack applications, which are both available to view on my GitHub.
 
-- [linkedin](https://www.linkedin.com/in/colin-mccormack-1a4a54229/)
-- [stack overflow](https://stackoverflow.com/users/17237035/colin-mccormack)
-- [google develloper](https://developers.google.com/profile/u/colin_mccormack)
+>##[linkedin](https://www.linkedin.com/in/colin-mccormack-1a4a54229/)
+>##[stack overflow](https://stackoverflow.com/users/17237035/colin-mccormack)
+>##[google develloper](https://developers.google.com/profile/u/colin_mccormack)
 
 
 - 🔭 I’m currently working on Scheduling Software
