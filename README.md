@@ -9,7 +9,7 @@ I followed this up with a website to show off this program and since then I have
 Over the summer my primary focus was on the development of an all-in-one scheduling application using Node JS, hosted on AWS. 
 I am also an active participant on GitHub and Stack Overflow, answering questions and offering suggestions to other coders.
 
-🔭 I’m currently working on Scheduling Software
-🌱 I’m currently learning Gooogle Cloud Services
-👯 I’m looking to collaborate on open source projects for beginners.
+- 🔭 I’m currently working on Scheduling Software
+- 🌱 I’m currently learning Gooogle Cloud Services
+- 👯 I’m looking to collaborate on open source projects for beginners.
 
