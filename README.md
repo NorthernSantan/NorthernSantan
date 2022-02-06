@@ -20,7 +20,7 @@
   
  <div align="center" width="50%">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernSantan&hide=CMake,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernSantan&hide=CMake,Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
 
