@@ -1,8 +1,10 @@
 # Colin McCormack Profile
 
+## Links
+
 #### [LinkedIn](https://www.linkedin.com/in/colin-mccormack-1a4a54229/) - [Stack Overflow](https://stackoverflow.com/users/17237035/colin-mccormack) - [Google Develloper](https://developers.google.com/profile/u/colin_mccormack)
 
-## Information
+## About Me
 
 - 🔭 I’m currently working on Scheduling Software
 - 🌱 I’m currently learning Google Cloud Services
