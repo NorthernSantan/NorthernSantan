@@ -12,13 +12,13 @@
 
 ## Stats
 
-<div align="center" width="100%">
+<div align="center" width="50%">
   
 [![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthernSantan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
   
- <div align="center" width="100%">
+ <div align="center" width="50%">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernSantan&hide=CMake,Makefile)](https://github.com/anuraghazra/github-readme-stats)
   
