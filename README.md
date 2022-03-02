@@ -6,8 +6,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Scheduling Software
-- 🌱 I’m currently learning Google Cloud Services
+- 🔭 I’m currently working on Scheduling Software and writing custom functions for Google Sheets 
+- 🌱 I’m currently learning Google Cloud Services and C++
 - 👯 I’m looking to collaborate on open source projects and open GitHub issues
 
 ## Stats
