@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Scheduling Software and writing custom functions for Google Sheets 
 - 🌱 I’m currently learning Google Cloud Services and C++
 - 👯 I’m looking to collaborate on open source projects and open GitHub issues
-- :memo: Check out my contribution to [Coding Interview University](https://github.com/jwasham/coding-interview-university) (here!) [https://github.com/jwasham/coding-interview-university/pull/1068]
+- :memo: Check out my contribution to [Coding Interview University](https://github.com/jwasham/coding-interview-university) [here!] (https://github.com/jwasham/coding-interview-university/pull/1068)
 
 ## Stats
 
